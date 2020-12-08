@@ -1,0 +1,1 @@
+function goto(url) {window.open(url, target='_blank')}
